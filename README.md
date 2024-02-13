@@ -9,4 +9,4 @@ This was my odin-recipes-project meant to showcase basic HTML concepts for this 
 - Publishing Pages/work on Github
 
 ## 🔗 View Project
-[You can view the project here](https://wodpachua.github.io/ordin-recipes)
+[You can view the project here](https://wodpachua.github.io/odin-recipes/)
