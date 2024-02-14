@@ -1,53 +1,53 @@
 body {
-    font-family: 'Trebuchet MS', Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #FBFDFE;
+  font-family: "Trebuchet MS", Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fbfdfe;
 }
 
 img {
-    display: block;
-    margin: auto;
+  display: block;
+  margin: auto;
 }
 
 .recipe-box {
-    min-width: 600px;
-    max-width: 700px;
-    display: flex;
-    margin: 20px auto;
-    padding: 20px;
-    background-color: #DCEAF8;
+  min-width: 600px;
+  max-width: 700px;
+  display: flex;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #dceaf8;
 }
 
 h1 {
-    font-family: Cambria,'Times New Roman', serif;
-    font-size: 80px;
-    text-align: center;
-    color: #243B5B;
+  font-family: Cambria, "Times New Roman", serif;
+  font-size: 80px;
+  text-align: center;
+  color: #243b5b;
 }
 
 a {
-    color: #243B5B;
-    font-weight: bold;
+  color: #243b5b;
+  font-weight: bold;
 }
 
 a:hover {
-    color: #B85042; 
+  color: #b85042;
 }
 
 .home {
-    background-color: #333;
-    padding: 10px;
-    text-align: center;
+  background-color: #333;
+  padding: 10px;
+  text-align: center;
 }
 
 .home a {
-    color: #fff;
-    padding: 5px 10px;
+  color: #fff;
+  padding: 5px 10px;
 }
 
 .recipe-image {
-    width: 100px;
-    height: 100px;
-    margin-right: 20px;
+  width: 100px;
+  height: 100px;
+  margin-right: 20px;
 }

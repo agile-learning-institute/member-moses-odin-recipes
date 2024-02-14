@@ -1,12 +1,17 @@
-# odin-recipes :star:
-This was my odin-recipes-project meant to showcase basic HTML concepts for this curriculum.
+# Odin-Recipes Project
 
-## ⭐️ Concepts
+This was my Recipes-Project meant to showcase basic HTML & CSS concepts for the Odin-Project Curriculum.
+
+## ⭐️ Concepts Practiced
+
 - Generating HTML boiler plate code
 - Using basic elements
 - Adding Images
 - Folder Structure
 - Publishing Pages/work on Github
+- CSS & CSS Box model
+- Using Colors
 
 ## 🔗 View Project
-[You can view the project here](https://wodpachua.github.io/odin-recipes/)
+
+[Published on GitHub Pages here](https://wodpachua.github.io/odin-recipes/)

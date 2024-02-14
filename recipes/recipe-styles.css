@@ -1,0 +1,55 @@
+body {
+  font-family: "Trebuchet MS", Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fbfdfe;
+}
+
+h1 {
+  font-family: Cambria, "Times New Roman", serif;
+  font-size: 50px;
+  text-align: center;
+  color: #243b5b;
+}
+
+.image-desc {
+  display: flex;
+  justify-content: center;
+  background-color: #dceaf8;
+}
+
+.desc {
+  min-width: 400px;
+  max-width: 500px;
+  margin: auto 20px;
+  padding: 20px 20px;
+  border-radius: 10px;
+}
+
+.recipe-box {
+  min-width: 800px;
+  max-width: 800px;
+  box-shadow: 0 2px 4px gray;
+  padding: 20px;
+  margin: 20px auto;
+}
+
+h3 {
+  color: #00abe4;
+}
+
+.desc h3 {
+  color: #243b5b;
+  font-size: 30px;
+}
+
+.home {
+  background-color: #333;
+  padding: 10px;
+  text-align: center;
+}
+
+.home a {
+  color: #fff;
+  padding: 5px 10px;
+}
