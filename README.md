@@ -14,4 +14,4 @@ This was my Recipes-Project meant to showcase basic HTML & CSS concepts for the 
 
 ## 🔗 View Project
 
-[Published on GitHub Pages here](https://wodpachua.github.io/odin-recipes/)
+[Published on GitHub Pages here](https://agile-learning-institute.github.io/member-moses-odin-recipes/)
